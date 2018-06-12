@@ -1,6 +1,6 @@
 {
   "name": "purescript-default",
-  "set": "psc-0.12.0",
+  "set": "csicar",
   "source": "https://gitlab.com/csicar/package-sets",
   "depends": [
     "maybe"
